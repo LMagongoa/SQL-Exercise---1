@@ -4,41 +4,11 @@ Data Analytics
 Exercise 1: SQL Fundamentals
 Database: employees_db
 Assume you have a table called employees with the following structure:
-id
-first_name
-last_name
-department
-salary
-hire_date
-city
-1
-John
-Doe
-IT
-55000
-2018-06-15
-New York
-2
-Jane
-Smith
-HR
-48000
-2019-07-20
-Chicago
-3
-Mike
-Johnson
-Finance
-60000
-2017-09-30
-Los Angeles
-4
-Sarah
-Brown
-IT
-53000
-2021-03-25
-New York
+id,first_name,last_name,department,salary,hire_date,city
+1,John,Doe,IT,55000,2018-06-15,New York,
+2,Jane,Smith,HR,48000,2019-07-20,Chicago
+3,Mike, Johnson,Finance,60000,2017-09-30,Los Angeles
+4,Sarah,Brown,IT,53000,2021-03-25,New York',
 5
 David
 White
