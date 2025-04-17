@@ -4,6 +4,7 @@ Data Analytics
 Exercise 1: SQL Fundamentals
 Database: employees_db
 Assume you have a table called employees with the following structure:
+
 ![image](https://github.com/user-attachments/assets/db26144f-10ef-4bb7-8102-1974e5ade765)
 
 
