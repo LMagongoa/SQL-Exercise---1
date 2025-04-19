@@ -1,4 +1,4 @@
-# SQL-Exercise-1
+# SQL-Exercise-1 Questions
 BrightLight Tutorials
 Data Analytics
 Exercise 1: SQL Fundamentals
